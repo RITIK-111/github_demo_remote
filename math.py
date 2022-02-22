@@ -2,7 +2,7 @@
 def add(x,y):
 	return d+c
 def sub(x,y):
-	return x-y # on main branch 
+	pass # on main branch 
 def mult(x,y):
 	return x*y  # on bug56
 def div(x,y):
