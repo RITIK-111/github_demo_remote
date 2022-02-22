@@ -4,7 +4,7 @@ def add(x,y):
 def sub(x,y):
 	return x-y # on main branch 
 def mult(x,y):
-	pass  # on bug56
+	return x*y  # on bug56
 def div(x,y):
 	if y == 0 :
 		return divide_by_o_error
