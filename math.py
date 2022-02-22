@@ -1,6 +1,6 @@
 #in order to check the function of the github
 def add(x,y):
-	return x+y
+	return d+c
 def sub(x,y):
 	return x-y # on main branch 
 def mult(x,y):
